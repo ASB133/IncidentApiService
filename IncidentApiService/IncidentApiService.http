@@ -1,0 +1,6 @@
+@IncidentApiService_HostAddress = http://localhost:5173
+
+GET {{IncidentApiService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
